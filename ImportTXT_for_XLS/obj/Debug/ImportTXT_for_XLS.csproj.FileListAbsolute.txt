@@ -1,0 +1,10 @@
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.csproj.ResolveComReference.cache
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\bin\Debug\ImportTXT_for_XLS.exe.config
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\bin\Debug\ImportTXT_for_XLS.exe
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\bin\Debug\ImportTXT_for_XLS.pdb
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\bin\Debug\encog-core-cs.dll
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.csproj.CopyComplete
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.exe
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.pdb
+C:\Users\vinic\source\repos\ImportTXT_for_XLS\ImportTXT_for_XLS\obj\Debug\ImportTXT_for_XLS.csprojAssemblyReference.cache
